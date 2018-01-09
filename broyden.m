@@ -1,7 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Sahebeh Dadboud: 1569395
-%sheet 4 - exe 4
+%Sahebeh Dadboud: 
 %Broyden's method and test it
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc;
