@@ -1,6 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Sahebeh Dadboud: 1569395
-%sheet 4 - exe 5
+%Sahebeh Dadboud:
 %Minimize the Rosenbrock function in 2d in broyden 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
